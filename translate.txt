@@ -1,0 +1,17 @@
+'pca' = Personal Care
+'ha' = Household Activities
+'care_hh' = Caring For & Helping Household Members
+'care_nh' = Caring For & Helping NonHH Members
+'work' = Work & Work-Related Activities
+'edu' = Education
+'con_pur' = Consumer Purchases
+'pro' = Professional & Personal Care Services
+'house' = Household Services
+'gov' = Government Services & Civic Obligations
+'eat' = Eating and Drinking
+'soc' = Socializing, Relaxing, and Leisure
+'sport'= Sports, Exercise, and Recreation
+'rel' = Religious and Spiritual Activities
+'vol' = Volunteer Activities
+'call' = Telephone Calls
+'travel' = Traveling
